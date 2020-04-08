@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:29
+-keep class com.tokyonth.tools.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:9
+-keepclassmembers class * { *** choose(...); }
+
+# onClick res/layout/main.xml #generated:37
+-keepclassmembers class * { *** jm(...); }
+
+# onClick res/layout/main.xml #generated:44
+-keepclassmembers class * { *** jmm(...); }
+
+# onClick res/layout/main.xml #generated:53
+-keepclassmembers class * { *** save(...); }
+
